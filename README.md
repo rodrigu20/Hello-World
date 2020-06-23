@@ -1,4 +1,4 @@
 # Hello, World!
- First repository of curse Git and GitHub
+ First repository of Git and GitHub curse!
  
  adicional line!
